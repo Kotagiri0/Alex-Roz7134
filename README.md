@@ -38,8 +38,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Roz7134&layout=compact&langs_count=10&hide_border=true&theme=tokyonight" alt="top langs" />
   </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alex-Roz7134&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
-
+ 
 ### 🔥 Серии коммитов (streaks)
 
 <p align="center">
